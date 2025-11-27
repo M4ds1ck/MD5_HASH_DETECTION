@@ -23,7 +23,7 @@ Le script supporte :
 1. Cloner le dépôt GitHub :
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/ioc-md5-scanner.git
+git clone https://github.com/M4ds1ck/MD5_HASH_DETECTION.git
 ```
 
 2. Placer vos fichiers `.ioc` dans un dossier (par défaut le script lit tous les `.ioc` du dossier configuré).
